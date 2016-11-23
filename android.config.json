@@ -1,0 +1,6 @@
+{
+  "AppName":"UjianSIM",
+  "AppId":"com.ardani.ujiansim",
+  "SplashText":"Simulasi Ujian SIM",
+  "WeexBundle":"index.js"
+}
